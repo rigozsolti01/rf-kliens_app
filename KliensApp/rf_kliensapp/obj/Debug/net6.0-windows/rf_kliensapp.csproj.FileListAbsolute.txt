@@ -1,0 +1,95 @@
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.exe
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.deps.json
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.runtimeconfig.json
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.AssemblyReference.cache
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Form1.resources
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.GenerateResource.cache
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfoInputs.cache
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfo.cs
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CoreCompileInputs.cache
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CopyComplete
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\refint\rf_kliensapp.dll
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.genruntimeconfig.cache
+C:\Users\vityaatya\source\repos\rf_kliensapp\rf_kliensapp\obj\Debug\net6.0-windows\ref\rf_kliensapp.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.exe
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.deps.json
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.runtimeconfig.json
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.AssemblyReference.cache
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Form1.resources
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.GenerateResource.cache
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfoInputs.cache
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfo.cs
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CoreCompileInputs.cache
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CopyComplete
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\refint\rf_kliensapp.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.genruntimeconfig.cache
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\ref\rf_kliensapp.dll
+C:\Users\vityaatya\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.exe
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.deps.json
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.runtimeconfig.json
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.AssemblyReference.cache
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Form1.resources
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CopyComplete
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\refint\rf_kliensapp.dll
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.genruntimeconfig.cache
+C:\Users\Asus\Source\Repos\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\ref\rf_kliensapp.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.exe
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.deps.json
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.runtimeconfig.json
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.AssemblyReference.cache
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Form1.resources
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.Properties.Resources.resources
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.GenerateResource.cache
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfoInputs.cache
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.AssemblyInfo.cs
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CoreCompileInputs.cache
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.csproj.CopyComplete
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\refint\rf_kliensapp.dll
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.pdb
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\rf_kliensapp.genruntimeconfig.cache
+C:\Users\Molnár Milán Dániel\OneDrive\Asztali gép\Milán\Egyetem\4.félév\RendFejl\rf-forroTortak\KliensApp\rf_kliensapp\obj\Debug\net6.0-windows\ref\rf_kliensapp.dll
